@@ -1,5 +1,5 @@
 # WP-project-pitch-website
-Author: Pranshu Rastogi 22BCE0441<br>D Lavnesh Rao 22BCI0048<br>Uday Prakash Sahu 22BCE2420
+Author: Pranshu Rastogi 22BCE0441  D Lavnesh Rao 22BCI0048  Uday Prakash Sahu 22BCE2420
 <br>
 This repository contains the code of our project discription 
 <br>
